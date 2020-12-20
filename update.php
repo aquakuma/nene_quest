@@ -28,7 +28,6 @@ if(isset($_COOKIE["input_name"])){
 	$score = $_COOKIE["input_score"];
 	$time = '"'.$_COOKIE["input_time"].'"';
 	$date = '"'.$_COOKIE["input_date"].'"';
-
 	$sql = "INSERT INTO players (name,score,time,date) VALUES ($name,$score,$time,$date)";
 	$pdo->exec($sql);
 }

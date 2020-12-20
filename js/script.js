@@ -1353,7 +1353,7 @@ function name(){
 
 	ctx.font = "30px arial black";
 	ctx.fillText("消し", furi.x+168, furi.y+340);
-	ctx.fillText("確定", furi.x+258, furi.y+340);
+	ctx.fillText("送信", furi.x+258, furi.y+340);
 
 
 	addEventListener("keydown", keydownfunc, false);

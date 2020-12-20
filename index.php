@@ -70,7 +70,7 @@ while($record = $dbh->fetch(PDO::FETCH_ASSOC)){
 
 	<div class = "game">
 	<canvas id="canvas"></canvas>
-	<p><a href="introduction.html">NENE QUESTとは</a></p>
+	<!--<p><a href="introduction.html">NENE QUESTとは</a></p>-->
 	
 	</div>
 
