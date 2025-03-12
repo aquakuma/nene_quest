@@ -7,7 +7,7 @@
 2人同時プレイ可能です。
 
 ### サイトリンク
-[作品サイト](https://aquakuma.xrea.jp/nene_quest/)
+[作品サイト](http://nene-quest.xrea.jp/)
 
 ## 開発環境
 ### 開発環境

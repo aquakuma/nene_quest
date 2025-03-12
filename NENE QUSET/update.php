@@ -1,7 +1,7 @@
 <?php 
 session_start();
 //db接続文字列
-$dsn = "mysql:host = 127.0.0.1;dbname=NENE_QUEST;charset=utf8mb4";
+$dsn = "mysql:host = 127.0.0.1;dbname=aquakuma;charset=utf8mb4";
 //※data source name
 //127.0.0.1=localhost
 
